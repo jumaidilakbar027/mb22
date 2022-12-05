@@ -1,2 +1,2 @@
 # mb22
-apliaksi laravel matakuliah mobile programung
+apliaksi laravel matakuliah mobile programing
